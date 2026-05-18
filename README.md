@@ -5,6 +5,7 @@
 - Maia Uranga
 - Catalina Salse
 - Belen Blaksley
+- Olivia Salmoyraghi
 
 ## Descripción del proyecto
 

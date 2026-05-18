@@ -41,7 +41,6 @@ Finaliza la ejecución del programa mostrando un mensaje de cierre.
 
 ## Estructura del repositorio
 predictor-nacionalidad-api/
-│
-├── main.py
-├── api_nacionalidad.py
-└── README.md
+- main.py
+- api_nacionalidad.py
+- README.md
